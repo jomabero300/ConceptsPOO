@@ -1,11 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace TSConceptsPOO
 {
-    public interface Ipay
+    public interface IPay
     {
         public decimal GetValueToPay();
     }
